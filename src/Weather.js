@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './Weather.css';
+
 import axios from 'axios';
 
 export default function Weather(props) {
